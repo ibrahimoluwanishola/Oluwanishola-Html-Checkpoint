@@ -1,0 +1,21 @@
+*
+{
+    font-family: roboto;
+}
+
+li
+{
+display: inline;
+margin: 30px;
+}
+
+.main
+{
+    padding: 10px 80px;
+    background-color: cornsilk;
+}
+
+h2{
+    color: brown;
+    font-size: 30xp;
+}

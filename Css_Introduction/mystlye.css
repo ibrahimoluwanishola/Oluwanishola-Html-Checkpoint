@@ -1,0 +1,48 @@
+*
+{
+    /* background-color: purple; */
+}
+
+.mytitle
+{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+#mydesc
+{
+    color: gold;
+    text-align: right;
+    font-size: 42px;
+}
+
+h3
+{
+    color: crimson;
+}
+
+.circle1
+{
+    /* border-radius: 50%; */
+    width: 300px;
+    height: 300px;
+    background-color: yellow;
+    border-top-right-radius: 20%;
+    border-top-left-radius: ;
+    border-bottom-left-radius:40% ;
+    border-bottom-right-radius: ;
+    
+}
+
+#cont1
+{
+    width: 400px;
+    height: 300px;
+    background-color: yellow;
+    /* margin-left: 200px;
+    margin-top: 400px; */
+    padding-left: 100px;
+    margin: 100px 20px 50px 70px;
+
+}
